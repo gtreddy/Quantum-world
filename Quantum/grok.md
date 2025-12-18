@@ -20,6 +20,6 @@ To illustrate, consider the ground state of a particle in a 1D infinite box (a s
 
 This chart shows how math "containers" (equations + boundaries) yield probabilistic features that, at scale, appear classical—bridging domains as per the statement.
 
-In summary, the quantum layer's possibilities, mathematically encoded, underpin classical emergence, revealing reality's profound unity through probabilistic dynamics. This framework has implications for fields like quantum computing, where harnessing amplitudes enables exponential computation. If you'd like expansions (e.g., on decoherence math), let me know!
+In summary, the quantum layer's possibilities, mathematically encoded, underpin classical emergence, revealing reality's profound unity through probabilistic dynamics. This framework has implications for fields like quantum computing, where harnessing amplitudes enables exponential computation. 
 
 <img width="782" height="425" alt="image" src="https://github.com/user-attachments/assets/8eedafc4-46a2-4f06-b487-55c1c3f26a67" />
